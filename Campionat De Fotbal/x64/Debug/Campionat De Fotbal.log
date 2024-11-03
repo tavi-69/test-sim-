@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\tavi9\source\repos\Campionat De Fotbal\Campionat De Fotbal\League.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  Campionat De Fotbal.vcxproj -> C:\Users\tavi9\source\repos\Campionat De Fotbal\x64\Debug\Campionat De Fotbal.exe
